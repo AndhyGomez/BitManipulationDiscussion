@@ -25,7 +25,7 @@ public class bitwise {
 		int xorNum = a ^ b;
 		String asBinary = Integer.toBinaryString(xorNum);
     
-    // returns count from flippedBitssCount()
+    		// returns count from flippedBitsCount()
 		return(flippedBitsCount(asBinary));
 	}
 	
