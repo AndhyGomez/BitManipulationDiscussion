@@ -1,11 +1,11 @@
-public class bitwise {
-	
+public class bitwise 
+{	
 	/*
 	 * Runtime complexity: O(n), where n is XOR char array
 	 */
 
 	public static void main(String[] args) 
-  {	
+  	{	
 		int a = 29; // Binary: 11101
 		int b = 15; // Binary: 01111
 		            // xor:	   10010
@@ -33,7 +33,7 @@ public class bitwise {
   * Description: Gets count of amount of bits which need to be flipped
   */
 	static int flippedBitsCount(String xorBinary) 
-  {
+  	{
 		int count = 0;
 		
 		char[] bin = xorBinary.toCharArray();
