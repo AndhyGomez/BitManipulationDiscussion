@@ -1,5 +1,5 @@
 # BitManipulationDiscussion
 
-Solution to 5.6 from Cracking The Coding Interview
+Solution to 5.6 from Cracking The Coding Interview as a simulated interview
 
 [![Code Explanation](https://raw.githubusercontent.com/AndhyGomez/BitManipulationDiscussion/main/images/thumb3.PNG)](https://youtu.be/4bkoHiikLhQ)
